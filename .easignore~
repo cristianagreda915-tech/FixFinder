@@ -1,0 +1,9 @@
+node_modules
+.git
+.expo
+.eas
+*.log
+.DS_Store
+.idea
+.vscode
+assets/sounds/*.wav
